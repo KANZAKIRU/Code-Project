@@ -5,7 +5,7 @@ public class Calculator {
 
 	public static void main(String[] args) {
 		int operator, n1, n2;
-		System.out.println("n1 - Add \n 2 - Substract \n 3 - Multiply \n4 Devide");
+		System.out.println("n1 - Add \n 2 - Substract \n 3 - Multiply \n4 Divide");
 		System.out.println("Choose Operator: ");
 		Scanner sc = new Scanner(System.in);
 		operator = sc.nextInt();
@@ -42,4 +42,5 @@ public class Calculator {
 	}
 
 }
+
 
