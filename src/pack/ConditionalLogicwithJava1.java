@@ -2,7 +2,7 @@ package pack;
 
 import java.util.Scanner;
 
-public class ConditionalLogicwithJava1_Nacaya {
+public class ConditionalLogicwithJava1 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -30,3 +30,4 @@ public class ConditionalLogicwithJava1_Nacaya {
 	}
 
 }
+
