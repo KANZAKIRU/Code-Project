@@ -2,7 +2,7 @@ package pack;
 
 import java.util.Scanner;
 
-public class LogicwithJava4_Nacaya {
+public class LogicwithJava4 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -41,4 +41,5 @@ public class LogicwithJava4_Nacaya {
         System.out.println(day);
         sc.close();
     }
+
 }
